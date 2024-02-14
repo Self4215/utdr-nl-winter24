@@ -24,11 +24,11 @@ https://docs.google.com/document/u/0/d/1BDq4HaxqcopkGkauSK4kFZI9LbtOtTuoT1B_rXuM
 
 ---
 
-# 01-sans-1-r
+# 01-sans-1-sr
 
 https://email-files.fangamer.com/list_48/campaign_6/valentines/01-sans-1-sr-b81QiK5HEJuiGuRG.png
 
-![01-sans-1-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/01-sans-1-sr-b81QiK5HEJuiGuRG.png)
+![01-sans-1-sr](https://email-files.fangamer.com/list_48/campaign_6/valentines/01-sans-1-sr-b81QiK5HEJuiGuRG.png)
 
 # 02-sans-2
 
