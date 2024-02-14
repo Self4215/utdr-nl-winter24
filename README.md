@@ -8,7 +8,7 @@
 
 这样就能找到原邮件使用的链接了，谢谢
 
-包含被移除的39-unknown长文图片备份
+包含[被移除的39-unknown长文图片备份](https://github.com/Self4215/utdr-nl-winter24/tree/main?tab=readme-ov-file#39-unknown-1-sssssssr)
 
 # 02-sans-2
 
