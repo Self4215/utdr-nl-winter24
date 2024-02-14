@@ -1,14 +1,22 @@
 # utdr-nl-winter24
 
-致力于收集 UT/DR Newsletter 之 Winter 2024 邮件中所有非隐藏和隐藏的情人节卡片
+收集 UT/DR Newsletter 之 Winter 2024 邮件中所有非隐藏和隐藏的情人节卡片
 
-欢迎提交pr，帮助完善，但提交时至少应提交如同这样格式的文件名或图片链接：
+包含[被移除的39-unknown长文图片备份](https://github.com/Self4215/utdr-nl-winter24/tree/main?tab=readme-ov-file#39-unknown-1-sssssssr)
+
+---
+
+***@btmtier 已收集齐全部44张情人节卡片的链接***，我正在为离开老家准备东西，过一会补齐，下面是原链接：
+
+https://docs.google.com/document/u/0/d/1BDq4HaxqcopkGkauSK4kFZI9LbtOtTuoT1B_rXuMx78/mobilebasic
+
+---
+
+欢迎提交issue或者pr，帮助完善，但提交时至少应提交如同这样格式的文件名或图片链接：
 
 `02-sans-2-n-QjIakxgVDbMtDVLF.png`
 
 这样就能找到原邮件使用的链接了，谢谢
-
-包含[被移除的39-unknown长文图片备份](https://github.com/Self4215/utdr-nl-winter24/tree/main?tab=readme-ov-file#39-unknown-1-sssssssr)
 
 # 02-sans-2
 
