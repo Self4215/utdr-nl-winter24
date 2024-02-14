@@ -1,22 +1,30 @@
 # utdr-nl-winter24
 
-收集 UT/DR Newsletter 之 Winter 2024 邮件中所有非隐藏和隐藏的情人节卡片
+收集 UT/DR Newsletter 之 Winter 2024 邮件中所有（非隐藏和隐藏）的情人节卡片
 
 包含[被移除的39-unknown长文图片备份](https://github.com/Self4215/utdr-nl-winter24/tree/main?tab=readme-ov-file#39-unknown-1-sssssssr)
 
 ---
 
-***@btmtier 已收集齐全部44张情人节卡片的链接***，我正在为离开老家准备东西，过一会补齐，下面是原链接：
+***@btmtier 已收集齐全部44张情人节卡片的链接***，我已补齐，下面是原链接：
 
 https://docs.google.com/document/u/0/d/1BDq4HaxqcopkGkauSK4kFZI9LbtOtTuoT1B_rXuMx78/mobilebasic
 
 ---
 
-欢迎提交issue或者pr，帮助完善，但提交时至少应提交如同这样格式的文件名或图片链接：
+欢迎提交issue或者pr，帮助完善，~~但提交时至少应提交如同这样格式的文件名或图片链接：~~
 
-`02-sans-2-n-QjIakxgVDbMtDVLF.png`
+~~`02-sans-2-n-QjIakxgVDbMtDVLF.png`~~
 
-这样就能找到原邮件使用的链接了，谢谢
+~~这样就能找到原邮件使用的链接了，谢谢~~
+
+---
+
+# 01-sans-1-r
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/01-sans-1-sr-b81QiK5HEJuiGuRG.png
+
+![01-sans-1-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/01-sans-1-sr-b81QiK5HEJuiGuRG.png)
 
 # 02-sans-2
 
@@ -54,6 +62,12 @@ THEY SAY THE WAY TO A [MansHeart] IS THROUGH [hiss stomach].
 THEY SAY THE WAY TO A [WomansHeart] IS THROUGH [hiss stomach].
 
 WELL [Let me in!!!] [Let me in!!!] PLEASE!!! THEY’RE [Killing me] OUT HERE!! THEY’RE DROWNING ME IN [insulating foam]
+
+# 05-spamton-2-r
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/05-spamton-2-r-bvmyy4chzOEhaulz.png
+
+![05-spamton-2-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/05-spamton-2-r-bvmyy4chzOEhaulz.png)
 
 # 06-spamton-3
 
@@ -97,6 +111,12 @@ https://email-files.fangamer.com/list_48/campaign_6/valentines/09-ralsei-3-r-QPR
 
 ![09-ralsei-3-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/09-ralsei-3-r-QPRCRmuxP4YropNK.png)
 
+# 10-ralsei-4-r
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/10-ralsei-4-r-MAQLXDYJIzldyfic.png
+
+![10-ralsei-4-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/10-ralsei-4-r-MAQLXDYJIzldyfic.png)
+
 # 11-lancer-1
 
 https://email-files.fangamer.com/list_48/campaign_6/valentines/11-lancer-1-n-INiao8vGHqWm7kTV.png
@@ -118,6 +138,12 @@ Lancer: Dear Valentino or Valentina,
 Take my spades, please!
 
 They’re better than hearts because they have handles.
+
+# 13-lancer-3-r
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/13-lancer-3-r-f7fBcKUa1PSqpJ83.png
+
+![13-lancer-3-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/13-lancer-3-r-f7fBcKUa1PSqpJ83.png)
 
 # 14-toriel-1
 
@@ -151,6 +177,12 @@ I heard that joke and I just thought it was so funny.
 
 Sincerely, Toriel.
 
+# 16-toriel-3-r
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/16-toriel-3-r-tQl66oqLImpfnkP2.png
+
+![16-toriel-3-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/16-toriel-3-r-tQl66oqLImpfnkP2.png)
+
 # 17-toriel-4-r
 
 https://email-files.fangamer.com/list_48/campaign_6/valentines/17-toriel-4-r-CJwxaenlz5pWEGkp.png
@@ -170,6 +202,12 @@ I have attached an IQ test. Solve this, and you’ll have passed the first step 
 Fail, and you’ll once again lose ELO and drop down the power rankings.
 
 I expect everyone to try harder this year. And NO colluding to cheat the system this time.
+
+# 19-berdly-2-r
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/19-berdly-2-r-S1fpUKFhR7S3oGzV.png
+
+![19-berdly-2-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/19-berdly-2-r-S1fpUKFhR7S3oGzV.png)
 
 # 20-noelle-1
 
@@ -234,6 +272,18 @@ You are receiving this letter because MTT noticed you did not write me a Valenti
 Take your time. MTT is accepting Valentines submissions all year… darling.
 
 Love, Mettaton.
+
+# 26-burgerpants-1-r
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/26-burgerpants-1-r-FarkeHx6FeXdlr9v.png
+
+![26-burgerpants-1-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/26-burgerpants-1-r-FarkeHx6FeXdlr9v.png)
+
+# 27-burgerpants-2-r
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/27-burgerpants-2-r-pTiTUCRhRKMxJySq.png
+
+![27-bergerpants-2-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/27-burgerpants-2-r-pTiTUCRhRKMxJySq.png)
 
 # 28-hathy-1
 
@@ -335,13 +385,45 @@ Alphys: Why was the fork, chemically excitable?
 
 Because it had valent tines!
 
+# 37-jevil-1-sr
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/37-jevil-1-sr-8jRovCXvFkQj7IdI.png
+
+![37-jevil-1-sr](https://email-files.fangamer.com/list_48/campaign_6/valentines/37-jevil-1-sr-8jRovCXvFkQj7IdI.png)
+
+# 38-grillby-1-ssr
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/38-grillby-1-ssr-s24s6a2tVuVLEJmC.png
+
+![38-grillby-1-ssr](https://email-files.fangamer.com/list_48/campaign_6/valentines/38-grillby-1-ssr-s24s6a2tVuVLEJmC.png)
+
 # 39-unknown-1-sssssssr
+
+前后有过两张图片，链接里原本的第一张长文图片已撤下，现在是第二张空白的情人节贺卡
+
+第一张旧图片
+
+https://web.archive.org/web/20240214025909/https://email-files.fangamer.com/list_48/campaign_6/valentines/39-unknown-1-sssssssr-4ss77d74YEmXmQpCmFW5nCQg.png
+
+![39-unknown-1-sssssssr](https://web.archive.org/web/20240214025909/https://email-files.fangamer.com/list_48/campaign_6/valentines/39-unknown-1-sssssssr-4ss77d74YEmXmQpCmFW5nCQg.png)
+
+第二张新图片
 
 https://email-files.fangamer.com/list_48/campaign_6/valentines/39-unknown-1-sssssssr-4ss77d74YEmXmQpCmFW5nCQg.png
 
-前后有两张图片，链接里原本的第一张长文图片已撤下，现在是第二张空白的情人节贺卡
+![39-unknown-1-sssssssr(1)](https://email-files.fangamer.com/list_48/campaign_6/valentines/39-unknown-1-sssssssr-4ss77d74YEmXmQpCmFW5nCQg.png)
 
-![39-unknown-1-sssssssr](https://email-files.fangamer.com/list_48/campaign_6/valentines/39-unknown-1-sssssssr-4ss77d74YEmXmQpCmFW5nCQg.png)
+# 40-laninoelnina-1-sssr
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/40-laninoelnina-1-sssr-lboMNSYgAkKSLaiP.png
+
+![40-laninoelnina-1-sssr](https://email-files.fangamer.com/list_48/campaign_6/valentines/40-laninoelnina-1-sssr-lboMNSYgAkKSLaiP.png)
+
+# 41-rouxls-1-sssr
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/41-rouxls-1-sssr-mg0h5VqKYKi4001L.png
+
+![41-rouxls-1-sssr](https://email-files.fangamer.com/list_48/campaign_6/valentines/41-rouxls-1-sssr-mg0h5VqKYKi4001L.png)
 
 # 42-rouxls-2
 
@@ -370,3 +452,15 @@ Rouxls: See-eth if thou can solveth THIS puzzle, Valentine!
 ((* You start to draw a heart in the blank.))
 
 What? No. Stop. Stop, no, it’s not that Easye. STOP!!!
+
+# 44-rouxls-4-r
+
+https://email-files.fangamer.com/list_48/campaign_6/valentines/44-rouxls-4-r-PS2ScPRBBjnH8ETj.png
+
+![44-rouxls-4-r](https://email-files.fangamer.com/list_48/campaign_6/valentines/44-rouxls-4-r-PS2ScPRBBjnH8ETj.png)
+
+# 许可证
+
+情人节贺卡版权归属原作者所有，本文档基于MIT许可证进行分发（©️ 2024 旋风SELF）。
+
+另外感谢 @btmtier 以及其收集链接内提到的其他人所做的收集工作！
