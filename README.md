@@ -1,8 +1,12 @@
 # utdr-nl-winter24
 
-收集 [UT/DR Newsletter 之 Winter 2024 邮件](https://toby.fangamer.com/newsletters/winter24/)中所有（非隐藏和隐藏）的情人节卡片
+收集 [UT/DR Newsletter 之 Winter 2024 邮件（英文版）](https://toby.fangamer.com/newsletters/winter24/)以及[（日文版）](https://toby.fangamer.jp/newsletters/winter24/)中所有（非隐藏和隐藏）的情人节卡片
 
 包含[被移除的39-unknown长文图片备份](https://github.com/Self4215/utdr-nl-winter24/tree/main?tab=readme-ov-file#39-unknown-1-sssssssr)
+
+图片链接格式：`https://email-files.fangamer.com/list_48/campaign_6/valentines/01-sans-1-sr-b81QiK5HEJuiGuRG.png`
+
+日文版图片将`.../valentines/...`改为`.../valentines-jp/...`即可
 
 ---
 
