@@ -1,8 +1,10 @@
 # utdr-nl-winter24
 
+> 主项目地址：[Github](https://github.com/Self4215/utdr-nl-winter24)；备用地址：[Gitee](https://gitee.com/self4215/utdr-nl-winter24)
+
 收集 [UT/DR Newsletter 之 Winter 2024 邮件（英文版）](https://toby.fangamer.com/newsletters/winter24/)以及[（日文版）](https://toby.fangamer.jp/newsletters/winter24/)中所有（非隐藏和隐藏）的情人节卡片
 
-包含[被移除的39-unknown长文图片备份](https://github.com/Self4215/utdr-nl-winter24/tree/main?tab=readme-ov-file#39-unknown-1-sssssssr)
+包含[被移除的39-unknown长文图片备份](https://github.com/Self4215/utdr-nl-winter24#39-unknown-1-sssssssr)
 
 图片链接格式：`https://email-files.fangamer.com/list_48/campaign_6/valentines/01-sans-1-sr-b81QiK5HEJuiGuRG.png`
 
@@ -12,7 +14,9 @@
 
 ***@btmtier 已收集齐全部44张情人节卡片的链接***，我已补齐，下面是原链接：
 
-https://docs.google.com/document/u/0/d/1BDq4HaxqcopkGkauSK4kFZI9LbtOtTuoT1B_rXuMx78/mobilebasic
+图文版：https://docs.google.com/document/u/0/d/1BDq4HaxqcopkGkauSK4kFZI9LbtOtTuoT1B_rXuMx78/mobilebasic
+
+纯文字版：https://docs.google.com/document/d/1S9kXQ834pvDQsaNgyc2m3wfRwMEmA2wM9U47TJDxWkc/edit
 
 ---
 
@@ -465,6 +469,6 @@ https://email-files.fangamer.com/list_48/campaign_6/valentines/44-rouxls-4-r-PS2
 
 # 许可证
 
-情人节贺卡版权归属原作者所有，本文档基于MIT许可证进行分发（©️ 2024 旋风SELF）。
+情人节贺卡版权归属原作者所有，本文档基于[MIT许可证](https://github.com/Self4215/utdr-nl-winter24?tab=MIT-1-ov-file)进行分发（[©️ 2024 旋风SELF](https://github.com/Self4215/utdr-nl-winter24?tab=MIT-1-ov-file)）。
 
-另外感谢 @btmtier 以及其收集链接内提到的其他人所做的收集工作！
+另外感谢 @btmtier 以及[其收集链接](https://docs.google.com/document/u/0/d/1BDq4HaxqcopkGkauSK4kFZI9LbtOtTuoT1B_rXuMx78/mobilebasic)内提到的其他人所做的收集工作！
